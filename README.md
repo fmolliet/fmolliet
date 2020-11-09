@@ -41,7 +41,7 @@ I'm Fabio Molliet, I'm a Full Stack developer!
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="45" height="45"/>
 <!--  Other languages  -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="45" height="45"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" alt="android" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="45" height="45"/>	
