@@ -20,7 +20,6 @@ I'm Fabio Molliet, I'm a Full Stack developer!
 <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" alt="handlebars" width="45" height="45"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
 <!-- Main FRONTEND FRAMEWORK -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="babel" width="45" height="45"/> 
