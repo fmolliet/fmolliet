@@ -54,9 +54,12 @@ I'm a Full Stack developer from São Paulo, SP - Brazil! I'm software and hardwa
 <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/> 
 <!-- Others -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+
 </div>
 
 ----
 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiomolliet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomolliet/)](https://www.linkedin.com/in/fabiomolliet/)
+<a href="https://www.linkedin.com/in/fabiomolliet/">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+</a>
