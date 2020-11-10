@@ -1,6 +1,6 @@
 <h1>  Hi 👋, I'm Fabio Molliet</h1>
 
-I'm a Full Stack developer from São Paulo, SP - Brazil! I'm software and hardware enthusiast!
+I'm a fullstack developer from São Paulo, SP - Brazil! I'm software and hardware enthusiast!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=fmolliet&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="fmolliet" />
