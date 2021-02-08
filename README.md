@@ -43,7 +43,6 @@ I'm a fullstack developer from São Paulo, SP - Brazil! I'm software and hardwar
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="45" height="45"/>	
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
