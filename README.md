@@ -27,7 +27,9 @@ I'm a fullstack developer from São Paulo, SP - Brazil! I'm software and hardwar
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="45" height="45"/>
