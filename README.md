@@ -18,6 +18,7 @@ I'm a fullstack developer from São Paulo, SP - Brazil! I'm software and hardwar
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 </div>
+
 ----
 
 ### - know how
