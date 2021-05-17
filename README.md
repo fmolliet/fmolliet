@@ -4,7 +4,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=fmolliet&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="fmolliet" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmolliet&layout=compact&hide=html,css,php,elixir,arduino,c%23" alt="fmolliet">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmolliet&layout=compact&hide=html,css,php,c,arduino,c%23" alt="fmolliet">
 </a>
 
 ----
