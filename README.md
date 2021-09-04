@@ -78,9 +78,9 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/> 
 <!-- Others -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> g 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.sv" alt="confluence" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="45" height="45"/>
 </div>
 
 ----
