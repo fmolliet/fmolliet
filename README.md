@@ -56,10 +56,11 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> 
-<!-- Cloud  -->
+<!-- Cloud -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="google" width="45" height="45"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="45" height="45"/>
 <!-- infra -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
