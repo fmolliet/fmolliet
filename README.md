@@ -46,7 +46,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="45" height="45"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" alt="ocaml" width="45" height="45"/>
