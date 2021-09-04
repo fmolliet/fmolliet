@@ -17,6 +17,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/>
 </div>
 
 ----
@@ -45,6 +46,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" alt="ocaml" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="45" height="45"/>
 <!-- Main DATABASE advanced -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> 
@@ -54,11 +56,13 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> 
 <!-- Cloud  -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="google" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="45" height="45"/>
 <!-- infra -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/> 
 <!--  Other languages  -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="45" height="45"/>
@@ -66,6 +70,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="45" height="45"/>	
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="45" height="45"/>
 <!--  Other FRAMEWORKS  -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" alt="moodle" width="45" height="45"/> 
@@ -73,7 +78,9 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/> 
 <!-- Others -->
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> g 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.sv" alt="confluence" width="45" height="45"/>
 </div>
 
 ----
