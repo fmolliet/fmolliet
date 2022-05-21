@@ -89,7 +89,7 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 
 ----
 
-[![Linkedin Badge](https://img.shields.io/badge/-fabiomolliet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomolliet/)](https://www.linkedin.com/in/fabiomolliet/)
-<a href="https://www.linkedin.com/in/fabiomolliet/">
+[![Linkedin Badge](https://img.shields.io/badge/-fabiomolliet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomolliet/)](https://www.linkedin.com/in/fmolliet/)
+<a href="https://www.linkedin.com/in/fmolliet/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 </a>
