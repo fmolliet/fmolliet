@@ -10,9 +10,6 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 ----
 ### - Main Stack:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" alt="ocaml" width="45" height="45"/>
