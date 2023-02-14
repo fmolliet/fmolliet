@@ -10,10 +10,12 @@ I'm a developer from São Paulo, SP - Brazil! I'm software and hardware enthusia
 ----
 ### - Main Stack:
 <div>
+<img src="https://user-images.githubusercontent.com/16329234/218625188-ab2cda32-67c6-4925-a295-7a674f6ec70e.svg" alt="quarkus" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/16329234/218625308-372af1fe-664e-41ab-b7b7-dbd10e7dd9bf.svg" alt="rustacean" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/>
